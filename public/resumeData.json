@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Ankush Thakur",
+    "occupation": "React Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "Img2.jpeg",
+    "bio": "I am Front-end-developer from Himachal Pradesh. I Develop stunning and breathtaking Websites on most heartening and promising Frameworks like REACT JS. So, far I have developed Wide Range of Projects on various Platforms. I have good hands on JavaScript, REACT & REDUX, FIREBASE, SQL, MongoDB, Graph QL, Node JS etc. I Always looking for opportunity to enhance my Skills and put some worthy contribution in the Community. Apart from Programming i like to go out with friends explore some new places and have some Adventures Fun",
+    "contactmessage": "Get in touch with me",
+    "email": "atpara99@gmail.",
+    "phone": "+91 7018298756",
+    "address": {
+      "street": "Sood Building Kachi Ghatti",
+      "city": "Shimla",
+      "state": "Himachal Pradesh",
+      "zip": "171005"
+    },
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCCvJgb9HLeTP4RSbE_fAbPA",
+        "className": "fa fa-youtube"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ankush-thakur-bba3521a0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ankush_08thakur/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AnkushThakur08",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Himachal Pradesh Univerity - Shimla,India",
+        "degree": "Master of Computer Application",
+        "graduated": "July 2022"
+      },
+
+      {
+        "school": "Himachal Pradesh Univerity - Shimla,India",
+        "degree": "Bachelor's of Computer Application",
+        "graduated": "July 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+
+      {
+        "name": "MySQl",
+        "level": "80%"
+      },
+
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+
+      {
+        "name": "Firebase",
+        "level": "75%"
+      },
+
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+
+      {
+        "name": "Web Development",
+        "level": "70%"
+      },
+
+      {
+        "name": "wordpress",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "E-Commerce (React JS & GraphQL)",
+        "category": "",
+        "image": "work1.png",
+        "url": "https://ankushthakur-ecom-site.netlify.app/"
+      },
+
+      {
+        "title": "NK-International (ReactJS)",
+        "category": "",
+        "image": "Capture22.png",
+        "url": "https://ankushthakur08.github.io/NK-International/#/"
+      },
+      {
+        "title": "Coffee King (React JS & Material UI)",
+        "category": "",
+        "image": "img2.png",
+        "url": "https://ankushthakur01.netlify.app/"
+      },
+      {
+        "title": "Emoji Match Game(Vanilla JS)",
+        "category": "",
+        "image": "img5.png",
+        "url": "https://ankushthakur08.github.io/Javascript-Game/"
+      },
+
+      {
+        "title": "Tic-Tac-Toe (ReactJS)",
+        "category": "",
+        "image": "img.jpeg",
+        "url": "https://ankushthakur08.github.io/Tic-Tac-Toe/"
+      },
+
+      {
+        "title": "Shopping Cart (ReactJS)",
+        "category": "",
+        "image": "cart.jpeg",
+        "url": "https://ankushthakur08.github.io/Shopping-Cart/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ankush is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Working with Ankush has been AWESOME, he deliver the Project on time, he is very punctual never gets late, he know what client wants !!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
