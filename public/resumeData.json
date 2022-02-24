@@ -14,7 +14,7 @@
       "state": "Himachal Pradesh",
       "zip": "171005"
     },
-    "resumedownload": "",
+    "resumedownload": "https://www.canva.com/design/DAEhXNNsbM8/hbasTqyPIYQxycY4x_6Wuw/view?utm_content=DAEhXNNsbM8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
     "social": [
       {
         "name": "youtube",
@@ -45,7 +45,7 @@
       {
         "school": "Himachal Pradesh Univerity - Shimla,India",
         "degree": "Master of Computer Application",
-        "graduated": "July 2022"
+        "graduated": "Aug 2022"
       },
 
       {
@@ -56,16 +56,30 @@
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Mobile Programming LLC",
+        "title": "Asst. Software Developer",
+        "years": "Feb 2021 - Present",
+        "description": ""
+      },
+      {
+        "company": "Mobile Programming LLC",
+        "title": "Full Stack Trainee",
+        "years": "Aug 2021 - Feb 2022",
+        "description": ""
       }
     ],
     "skills": [
       {
         "name": "ReactJS",
         "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "70%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "70%"
       },
 
       {
