@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Ankush Thakur",
-    "occupation": "React Developer",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "JavaScript Developer",
+    "description": "I eat, sleep and breathe JavaScript",
     "image": "Img2.jpeg",
-    "bio": "I am Front-end-developer from Himachal Pradesh. I Develop stunning and breathtaking Websites on most heartening and promising Frameworks like REACT JS. So, far I have developed Wide Range of Projects on various Platforms. I have good hands on JavaScript, REACT & REDUX, FIREBASE, SQL, MongoDB, Graph QL, Node JS etc. I Always looking for opportunity to enhance my Skills and put some worthy contribution in the Community. Apart from Programming i like to go out with friends explore some new places and have some Adventures Fun",
+    "bio": "I am FullStack JavaScript from Himachal Pradesh. I Develop stunning and breathtaking Websites on most heartening and promising Frameworks like REACT JS, ExpressJS, Node. So, far I have developed Wide Range of Projects on various Platforms. I have good hands on JavaScript, REACT & REDUX, FIREBASE, SQL, MongoDB, Graph QL, Node JS etc. I Always looking for opportunity to enhance my Skills and put some worthy contribution in the Community. Apart from Programming i like to go out with friends explore some new places and have some Adventures Fun",
     "contactmessage": "Get in touch with me",
     "email": "atpara99@gmail.",
     "phone": "+91 7018298756",
@@ -56,24 +56,37 @@
     ],
     "work": [
       {
+        "company": "Applify Tech Private Limited",
+        "title": "Associate Software Engineer",
+        "years": "April 2022 - Present",
+        "description": ""
+      },
+
+      {
         "company": "Mobile Programming LLC",
         "title": "Full Stack Trainee",
-        "years": "Aug 2021 - Present",
+        "years": "Aug 2021 - April 2022",
         "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJS",
+        "name": "JavaScript",
         "level": "80%"
       },
+
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+
       {
         "name": "NodeJS",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "ExpressJS",
-        "level": "70%"
+        "level": "75%"
       },
 
       {
@@ -88,7 +101,7 @@
 
       {
         "name": "Firebase",
-        "level": "75%"
+        "level": "80%"
       },
 
       {
@@ -97,18 +110,8 @@
       },
 
       {
-        "name": "JavaScript",
+        "name": "Full Stack Web Development",
         "level": "80%"
-      },
-
-      {
-        "name": "Web Development",
-        "level": "70%"
-      },
-
-      {
-        "name": "wordpress",
-        "level": "90%"
       }
     ]
   },
